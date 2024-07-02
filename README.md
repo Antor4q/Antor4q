@@ -1,10 +1,4 @@
-<style>
-.centered {
-    text-align: center;
-    display: 'flex';
-    justify-content: "center"
-}
-</style>
+
 <img src="https://media.licdn.com/dms/image/D5616AQH_bsOdVPJuNg/profile-displaybackgroundimage-shrink_350_1400/0/1719908629485?e=1725494400&v=beta&t=HiYYOapgj03F0FIL-CRUzIQos6NibCZ7SIsia-wjFRQ"/>
 <h1 >Hi 👋, I'm Ahmed Antor</h1>
 <h3 >Frontend developer</h3>
@@ -32,17 +26,10 @@
 
 
 
-<p class="centered">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Antor4q" alt="Anurag's GitHub stats">
-  </a>
-</p>
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antor4q)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antor4q)](https://github.com/anuraghazra/github-readme-stats)
 
-<div class="">
- [![GitHub Streak](https://streak-stats.demolab.com/?user=Antor4q&theme=dark)](https://git.io/streak-stats)
-</div>
-<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=Antor4q&theme=dark)](https://git.io/streak-stats) -->
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Antor4q&theme=dark)](https://git.io/streak-stats)
 
   

@@ -27,5 +27,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antor4q)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Antor4q&theme=dark)](https://git.io/streak-stats)
+<div style="text-align: center;">
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=Antor4q&theme=dark)](https://git.io/streak-stats)
+</div>
   
